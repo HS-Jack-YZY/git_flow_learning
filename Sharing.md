@@ -8,3 +8,5 @@ Then I add something at there.现在让我们试一试rebase！
 新增第七行
 
 在来一次，我在本地进行开发中
+
+又对这一行进行开发
