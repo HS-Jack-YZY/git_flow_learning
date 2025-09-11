@@ -3,3 +3,4 @@ This is a Sharing code
 我又加了一行
 I add a new line in remote. What will happen if I add something at here.
 Then I add something at there.现在让我们试一试rebase！
+悄悄的在远程新增了一行，看看feature/add_lines有什么反应
