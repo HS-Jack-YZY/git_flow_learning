@@ -1,6 +1,6 @@
 .....
 XXXXXXXXXX
+Jack is a handsome and clever guy
 XXXXXXXXXXX
-Jack is a handsome guy
 XXXXXXXXXX
 .....
